@@ -1,0 +1,16 @@
+{
+  "name": "exam-questions",
+  "version": "1.0.0",
+  "description": "Asks random questions from the given files until you give the correct answer to all of them",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Attila Bagossy",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "readline-sync": "^1.2.22",
+    "yargs": "^3.32.0"
+  }
+}

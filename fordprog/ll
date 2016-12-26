@@ -1,0 +1,13 @@
+LL elemzés
+LL elemzés
+Egyszerű LL(1) nyelvtan
+FIRST(alfa)
+Lambda-mentes LL(1) nyelvtan
+FIRSTk(alfa)
+LL(k) nyelvtan
+Tétel: Mikor LL(k) nyelvtan egy nyelvtan?
+FOLLOWk(béta)
+Erős LL(k) nyelvtan
+Tétel: Mikor erős LL(k) nyelvtan egy nyelvtan?
+Tétel: Mikor LL(1) nyelvtan egy nyelvtan?
+LL(1) elemző táblázat

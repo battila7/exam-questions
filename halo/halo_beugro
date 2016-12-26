@@ -1,0 +1,100 @@
+Hálózati architektúrák és protokollok beugrók
+Végrendszer
+Csomópont
+Szerver
+Kliens
+1. rétegű szolgáltatók (Tier 1 ISP)
+IXP
+2. rétegű szolgáltatók (Tier 2 ISP)
+3. rétegű szolgáltatók (Tier 3 ISP)
+BIX
+Vonalkapcsolt (áramkörkapcsolt, circuit switched) technológia
+Üzenetkapcsolt (store and forward) technológia
+Csomagkapcsolt (package switched) technológia
+Pont-pont kapcsolat (Point-To-Point)
+Többpontos kapcsolat, üzenetszórás
+Egyirányú (szimplex) összeköttetés
+Váltakozó irányú (half-duplex) összeköttetés
+Kétirányú (full-duplex) összeköttetés
+Jel
+Jelkódolás
+Moduláció
+Adatátviteli közeg
+Adatátviteli csatorna
+Ütközés
+Adatátviteli sebesség (hálózati sebesség, sávszélesség, bit ráta)
+Hálózati protokoll
+RFC
+Függőleges (fizikai) kommunikáció
+Vízszintes (logikai) kommunikáció
+ISO/OSI
+Alkalmazási réteg
+Megjelenítési réteg
+Viszony réteg
+Szállítási réteg
+Hálózati réteg
+Adatkapcsolati réteg
+Fizikai réteg
+Becsomagolás (encapsulation)
+Protokoll adategység (PDU)
+Ütközési tartomány
+Üzenetszórási tartomány
+Jelismétlő (repeater)
+Híd (bridge)
+Kapcsoló (switch)
+Forgalomirányító, útválasztó (router)
+Fizikai topológia
+Logikai topológia
+Csillapítás
+Jeltovábbítás
+Keresztkötésű kábel
+Egyeneskötésű kábel
+NRZ kódolás (Non Return to Zero)
+NRZI kódolás (Non Return to Zero Inverted)
+RZ kódolás (Return to Zero)
+PE kódolás (Phase Encoding, Manchester)
+Amplitúdó billentyűzés (Amplitude Shift Keying)
+Frekvencia billentyűzés (Frequency SK)
+Fázis billentyűzés (Phase SK)
+Frekvencia-osztásos multiplexelésen alapuló hozzáférés (FDMA)
+Időosztásos multiplexelésen alapuló hozzáférés (TDMA)
+Hullámhossz-osztásos multiplexelés (WDMA)
+ALOHA közeghozzáférési protokoll
+Réselt ALOHA közeghozzáférési protokoll
+CSMA (Carrier Sense Multiple Access) közeghozzáférési protokoll
+CSMA/CD (Carrier Sense Multiple Access Collision Detection) közeghozzáférési protokoll
+Vezérjeles gyűrű, token ring 802.5 közeghozzáférési protokoll
+PPP (Point-to-Point Protocol)
+IP (Internet Protocol)
+IP cím
+Netmaszk
+Prefix hossz
+ICMP (Internet Control Message Protocol)
+Forgalomirányítás (routing)
+Forgalomirányítási táblázat (routing table)
+Forgalomirányított protokoll (routed protocol)
+Forgalomirányítási protokoll (routing protocol)
+Autonóm rendszer (AS)
+Metrika
+Címzési övezet (address realm)
+Külső hálózat (Public/Global/External Network)
+Belső hálózat (Private/Local Network)
+ARP
+DHCP (Dynamic Host Configuration Protocol)
+Port
+Nyalábolás szállítási rétegben
+Nyalábbontás szállítási rétegben
+TCP Csúszóablakos technológia
+Interfész (interface)
+DNS
+Abszolút tartománynév
+DNS zóna
+Süti (cookie)
+Hiperszöveg/hypertext
+Virtuális magánhálózat (Virtual Private Network, VPN)
+Feladó hitelesség (Sender Authentication)
+Sértetlenség (Integritás, Integrity)
+Titkosság (Confidentiality)
+Titkosítás (Encryption)
+Letagadhatatlanság (Non Repudiation)
+BitTorrent
